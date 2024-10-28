@@ -5,3 +5,5 @@ create table member(
     pw varchar(30),
     age int
 );
+desc member;
+SELECT * FROM member;

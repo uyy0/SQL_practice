@@ -8,5 +8,6 @@
 </head>
 <body>
 	<a href="join">회원가입</a>
+	<a href="readall">전체 회원 보기</a>
 </body>
 </html>
